@@ -1,0 +1,28 @@
+{
+  "name": "assignment-1-comp308",
+  "version": "1.0.0",
+  "description": "My first assignment on portfolio created using express, node and EJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvneetKhaira7/COMP308-assignment-1.git"
+  },
+  "keywords": [
+    "COMP-308",
+    "Assignment-1",
+    "Node",
+    "Express",
+    "EJS",
+    "Template"
+  ],
+  "author": "Avneet Kaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvneetKhaira7/COMP308-assignment-1/issues"
+  },
+  "homepage": "https://github.com/AvneetKhaira7/COMP308-assignment-1#readme"
+}
