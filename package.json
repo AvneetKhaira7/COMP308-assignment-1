@@ -24,5 +24,15 @@
   "bugs": {
     "url": "https://github.com/AvneetKhaira7/COMP308-assignment-1/issues"
   },
-  "homepage": "https://github.com/AvneetKhaira7/COMP308-assignment-1#readme"
+  "homepage": "https://github.com/AvneetKhaira7/COMP308-assignment-1#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "bootstrap": "^3.3.7",
+    "cookie-parser": "^1.4.3",
+    "debug": "^2.6.0",
+    "ejs": "^2.5.5",
+    "express": "^4.14.1",
+    "morgan": "^1.8.0",
+    "serve-favicon": "^2.3.2"
+  }
 }
